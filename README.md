@@ -13,17 +13,29 @@ Content
 This dataset contains a collection of tweets with keywords Fantasy Premier League and FPL. The tweets were scraped using the snscrape library. The dataset includes the following information for each tweet:
 
 ID: The unique identifier for the tweet.
+
 Timestamp: The date and time when the tweet was posted.
+
 User: The Twitter handle of the user who posted the tweet.
+
 Text: The content of the tweet.
+
 Hashtag: The hashtags included in the tweet, if any.
+
 Retweets: The number of times the tweet has been retweeted as of the time it was scraped.
+
 Likes: The number of likes the tweet has received as of the time it was scraped.
+
 Replies: The number of replies to the tweet as of the time it was scraped.
+
 Source: The source application or device used to post the tweet.
+
 Location: The location listed on the user's Twitter profile, if any.
+
 Verified_Account: A Boolean value indicating whether the user's Twitter account has been verified.
+
 Followers: The number of followers the user has as of the time the tweet was scraped.
+
 Following: The number of accounts the user is following as of the time the tweet was scraped
 
 The dataset provides a glimpse into the online chatter related to Fantasy Premier League and can be used for various natural language processing and machine learning tasks, such as sentiment analysis, topic modeling, and more. It allows an understanding of the community, the level of interest, and the experience of playing FPL.
