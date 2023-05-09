@@ -39,3 +39,6 @@ Followers: The number of followers the user has as of the time the tweet was scr
 Following: The number of accounts the user is following as of the time the tweet was scraped
 
 The dataset provides a glimpse into the online chatter related to Fantasy Premier League and can be used for various natural language processing and machine learning tasks, such as sentiment analysis, topic modeling, and more. It allows an understanding of the community, the level of interest, and the experience of playing FPL.
+
+
+use this link to get this dataset from kaggle :  https://www.kaggle.com/datasets/prasad22/fpl-tweets-dataset
